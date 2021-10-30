@@ -13,9 +13,9 @@ if __name__ == "__main__":
 
     app = Client(
         "TroJanz",
-        bot_token=Config.TG_BOT_TOKEN,
-        api_id=Config.APP_ID,
-        api_hash=Config.API_HASH,
+        bot_token=Config.1950090715:AAH3rJEVIgiil00pZjvRKwXhuRTj_QoLmAE,
+        api_id=Config.7744764,
+        api_hash=Config.09fb2bd3ee46019e911149d4970bfc47,
         plugins=plugins,
         workers=300,
     )
